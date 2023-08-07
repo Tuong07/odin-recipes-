@@ -1,0 +1,23 @@
+p {
+     text-align: center;
+     color: grey;
+     font-size: larger;
+}
+
+h1 {
+     text-align: center;
+     color: black;
+}
+
+h2 {
+     text-align: center;
+     color: black;
+}
+
+div {
+     text-align: center;
+}
+
+body {
+     background-color: beige;
+}
